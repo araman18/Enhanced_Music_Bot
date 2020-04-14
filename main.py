@@ -10,7 +10,7 @@ import shutil
 import nightcore as nt
 
 TOKEN = "YOUR_TOKEN_HERE"
-GUILD = "TestServer"
+GUILD = "YOUR_GUILD_NAME_HERE"
 
 bot = commands.Bot(command_prefix='.')
 
