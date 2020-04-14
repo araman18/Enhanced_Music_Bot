@@ -9,7 +9,7 @@ import math
 import shutil
 import nightcore as nt
 
-TOKEN = "Njk4NjkyOTY1OTMzMjUyNjI5.XpJi9w.he8-v9jDOqTCYYYiG03mVH0PRQI"
+TOKEN = "YOUR_TOKEN_HERE"
 GUILD = "TestServer"
 
 bot = commands.Bot(command_prefix='.')
