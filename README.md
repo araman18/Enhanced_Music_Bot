@@ -17,7 +17,7 @@ In order to run the bot in your own server follow the following steps
 
 1.)Change the server name/guild name to the name of your 
 
-2.)Use https://discordapp.com/oauth2/authorize?client_id=Njk4NjkyOTY1OTMzMjUyNjI5.XpJi9w.he8-v9jDOqTCYYYiG03mVH0PRQI&scope=bot to add the bot to your server
+2.)Use https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID_HERE&scope=bot to add the bot to your server
 
 3.)To run the bot first use the command below to install dependancies
 <p> pip install -r requirements.txt pip install -r requirements.txt<p>
