@@ -3,6 +3,9 @@
 Discord bot for playing modified music in discord servers, made with discord.py rewrite
 
 This bot is has the functionality of a normal music bot, with play, queue, stop, resume, pause etc but is also able to play modified versions of tracks on spotify and youtube 
+Calling .play <Song Name/Url> bass will bass boost the song then play it
+Calling .play <Song Name/Url> nc will put the song through a nightcore filter then play it
+Calling .play <Song Name/Url> will play the song normally
 
 Libraries used are specified in requirments.txt
 
