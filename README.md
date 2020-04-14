@@ -1,4 +1,4 @@
-<div align="center">
+
 # Enhanced_Music_Bot
 Discord bot for playing modified music in discord servers, made with discord.py rewrite
 
